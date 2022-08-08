@@ -66,6 +66,7 @@ nav ul li {
   width: 55px;
   border: 1px solid;
   padding-top: 8px;
+  background: transparent;
 }
 .logo img {
   width: 80px;
