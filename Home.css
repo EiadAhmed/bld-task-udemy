@@ -99,6 +99,13 @@ nav ul li {
   font-weight: 500;
   color: darkorange;
 }
+.empty {
+  font-size: 15px;
+  font-weight: 500;
+  color: rgb(200, 200, 200);
+  border-color: darkorange;
+  background-color: transparent;
+}
 .box {
   height: 300px;
   width: 215px;
