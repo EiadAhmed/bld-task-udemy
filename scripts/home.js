@@ -32,7 +32,6 @@ function upload(keyword, tab) {
             <div class="cards-wrapper">`;
         }
         cnt++;
-
         temp += `<div class="box">
 <img src="${element.image}" alt="">
 <h3>${element.title}</h3>
